@@ -1,2 +1,0 @@
-# imagegalleryrepo
-image gallery repo
